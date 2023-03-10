@@ -12,10 +12,11 @@ function validateForm() {
       return false;
     }
 
-    return true;
-    
-    alert("Your details have been submitted successfully!");
+    alert("Your details has being summited successfully!")
+
+    return true;  
   }
+
 
 
     
